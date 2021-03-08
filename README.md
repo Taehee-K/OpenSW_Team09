@@ -4,7 +4,7 @@ Web Application for Pet Owners
  ## Team member(OpenSWPlatform team09)
  -Dayoung Lee(1871035) -Seoyeong Han(1871055)
 
- -seoyeon ahn(1876217) -Taehee Kim(1870027)
+ -Seoyeon Ahn(1876217) -Taehee Kim(1870027)
  
  
  ## To use this web
